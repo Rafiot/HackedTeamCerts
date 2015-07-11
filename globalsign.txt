@@ -1,0 +1,71 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            04:00:00:00:00:01:2f:4e:e1:35:5c
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+        Validity
+            Not Before: Apr 13 10:00:00 2011 GMT
+            Not After : Apr 13 10:00:00 2019 GMT
+        Subject: C=BE, O=GlobalSign nv-sa, CN=GlobalSign CodeSigning CA - G2
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b2:4f:14:e7:10:be:d7:26:72:ab:36:97:ef:53:
+                    bf:42:84:5e:58:d1:8a:28:fc:43:46:6f:7e:28:44:
+                    50:0b:75:5d:00:d7:3c:0a:44:9e:20:6a:a4:f7:45:
+                    4a:37:60:a3:6e:3f:12:fa:6d:fa:b6:46:c3:6a:a3:
+                    b8:0c:27:28:02:57:28:d1:50:f7:61:39:55:b8:c3:
+                    e1:25:86:52:3c:bf:05:1d:d7:b3:9a:f8:9a:24:31:
+                    49:d5:a2:a9:e2:d3:91:ab:3e:3c:73:ef:f6:29:f1:
+                    c8:35:d0:30:7b:7f:4e:92:a5:06:8f:87:e2:ce:f5:
+                    c1:63:66:ac:18:69:2a:c1:5e:bb:5a:e8:6e:95:ff:
+                    3b:80:62:9d:99:c7:c7:2f:66:d5:fd:62:1a:82:55:
+                    5a:c6:fa:40:77:8e:c9:30:3c:1b:f0:f2:35:b8:6c:
+                    59:9c:fd:e9:d6:ca:b4:40:1e:f7:04:ca:d1:67:a9:
+                    74:e3:a5:08:54:d9:83:35:3b:8e:8c:23:0c:75:b6:
+                    de:86:4a:9e:1a:3e:0a:50:49:38:9c:d2:a8:90:bf:
+                    98:fa:c8:8c:2b:27:11:7e:2a:fb:ce:de:a9:ae:38:
+                    93:22:fa:a6:ec:fb:5c:61:76:c3:44:d6:cc:0c:7e:
+                    2f:6d:06:80:a2:74:40:bb:b7:1f:f4:3b:d7:73:54:
+                    1f:f3
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Certificate Sign, CRL Sign
+            X509v3 Basic Constraints: critical
+                CA:TRUE, pathlen:0
+            X509v3 Subject Key Identifier: 
+                08:6E:D8:B6:9C:8A:BF:ED:3E:D7:C3:74:5D:CC:80:1F:A8:2F:50:7A
+            X509v3 Certificate Policies: 
+                Policy: X509v3 Any Policy
+                  CPS: https://www.globalsign.com/repository/
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.globalsign.net/root.crl
+
+            X509v3 Extended Key Usage: 
+                Code Signing
+            X509v3 Authority Key Identifier: 
+                keyid:60:7B:66:1A:45:0D:97:CA:89:50:2F:7D:04:CD:34:A8:FF:FC:FD:4B
+
+    Signature Algorithm: sha1WithRSAEncryption
+         22:5c:c5:dd:3d:f4:0b:70:d8:e3:f5:e7:c5:8e:09:01:bb:b1:
+         96:36:5c:5a:07:ad:c7:a8:44:49:51:25:7a:ae:0d:a4:19:3b:
+         92:9c:cf:b9:42:26:bb:3b:6c:97:e7:c7:ce:11:6d:68:91:da:
+         8d:6d:f1:53:4d:54:38:8c:61:f3:c8:82:76:69:be:81:32:0b:
+         31:c3:6c:c9:9e:20:0a:58:2f:f0:48:fe:7e:48:07:aa:d7:43:
+         58:94:73:54:04:31:a9:78:0d:3b:8c:b0:70:c1:3d:7e:d7:bd:
+         2f:2a:c3:e2:f5:8f:0c:90:dc:6b:a5:c8:be:68:5e:5d:6d:f8:
+         78:d2:be:49:95:1e:15:78:08:91:fb:34:c8:be:84:ad:bc:e0:
+         c6:dd:18:db:f3:ca:f0:7b:c2:14:3c:18:b8:03:ba:95:3e:21:
+         1e:3f:60:69:7a:7f:6a:03:9e:8d:4a:f9:f0:28:2c:30:84:5e:
+         ec:26:72:42:b1:6d:cb:64:c3:12:8c:d6:84:4b:67:41:7c:b1:
+         03:17:78:09:e3:ad:a8:b6:96:2d:a4:7e:80:03:4f:88:f7:c1:
+         6b:5a:46:15:cd:2c:19:8b:d8:70:9c:e5:2d:49:88:60:72:a8:
+         a4:19:52:70:43:5e:da:d6:46:03:b0:68:0e:24:ef:4a:f6:0b:
+         25:24:ef:24

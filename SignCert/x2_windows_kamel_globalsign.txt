@@ -1,0 +1,74 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            11:21:85:c6:98:10:f4:1d:52:d6:91:42:f6:ac:dc:da:f8:68
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=BE, O=GlobalSign nv-sa, CN=GlobalSign CodeSigning CA - G2
+        Validity
+            Not Before: Nov 20 10:41:50 2012 GMT
+            Not After : Nov 21 10:41:50 2015 GMT
+        Subject: C=LB, CN=Kamel Abed
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:c2:74:1d:a4:db:d1:1c:85:5d:fc:b8:dd:a1:51:
+                    eb:de:93:22:52:55:6f:a9:70:de:d6:30:4b:46:ff:
+                    42:26:98:98:42:9b:0d:35:ba:68:77:78:9e:b0:a0:
+                    9a:6c:4c:22:25:bf:8e:4b:ca:d0:58:ae:c8:88:19:
+                    ab:f5:1f:bd:65:a3:7a:14:18:bd:15:af:76:73:69:
+                    b6:1d:ae:b7:f1:fb:d6:d9:07:c6:3c:28:c6:49:f1:
+                    0a:81:ac:d9:76:36:a5:7d:b5:f3:02:0a:d0:e9:95:
+                    6c:05:3f:e2:e3:6f:65:c8:2e:e3:d3:a5:a8:c0:25:
+                    db:fb:04:f2:72:85:a6:e0:7a:da:b7:2a:1c:6b:87:
+                    2f:1f:0b:bd:fd:b5:cc:ee:d9:97:5f:7f:8e:27:eb:
+                    88:f1:59:3c:7f:d7:c5:e2:0d:86:dc:be:06:76:3b:
+                    20:06:2c:86:39:a6:f1:72:8f:19:70:fc:90:e2:60:
+                    89:21:36:2b:d0:1d:e8:68:33:86:71:90:d5:1f:30:
+                    4c:e2:a9:76:12:4c:67:ac:0e:b3:32:e2:12:83:22:
+                    de:14:6a:25:9e:35:cc:e7:42:d2:d4:cc:01:09:43:
+                    f8:ee:59:c7:67:42:14:2b:77:74:e9:d6:d9:c4:0e:
+                    3a:5e:aa:f3:28:7e:84:5d:f3:c4:fd:f7:ca:fd:0d:
+                    bd:9f
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature
+            X509v3 Certificate Policies: 
+                Policy: 1.3.6.1.4.1.4146.1.50
+                  CPS: https://www.globalsign.com/repository/
+
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Extended Key Usage: 
+                Code Signing
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.globalsign.com/gs/gscodesigng2.crl
+
+            Authority Information Access: 
+                CA Issuers - URI:http://secure.globalsign.com/cacert/gscodesigng2.crt
+
+            X509v3 Subject Key Identifier: 
+                C8:14:70:87:2C:21:9A:91:81:C5:D5:F9:8B:99:31:A2:7A:53:0D:62
+            X509v3 Authority Key Identifier: 
+                keyid:08:6E:D8:B6:9C:8A:BF:ED:3E:D7:C3:74:5D:CC:80:1F:A8:2F:50:7A
+
+    Signature Algorithm: sha1WithRSAEncryption
+         5d:cb:19:68:37:de:7e:d2:fc:4b:16:2b:96:fe:da:f4:bd:df:
+         13:2d:2b:39:2d:77:78:76:20:48:5b:d1:47:44:35:80:01:a6:
+         1c:2c:aa:33:ea:0d:0b:a5:23:1c:23:8f:d2:41:8d:a7:8d:c4:
+         4b:66:12:b4:06:15:55:15:f9:ca:d2:7e:c6:5c:d5:13:5a:68:
+         5c:07:ae:de:34:3b:74:1c:0f:3c:25:c1:fc:24:be:5d:ea:c7:
+         11:a2:af:75:8d:df:13:1b:cb:d0:ae:fc:ea:fe:ed:4f:4c:5a:
+         1c:6c:ce:b4:90:fa:99:32:42:75:d9:2e:9a:0a:91:cb:0d:18:
+         7f:93:98:fd:eb:17:13:dc:44:42:12:b5:2e:c2:b3:80:c7:f5:
+         a8:0a:de:4b:06:86:1e:99:e4:ef:fd:3e:28:76:fb:75:c4:73:
+         aa:2b:ef:17:9b:5d:5b:a4:86:7f:53:56:c5:8b:f6:ae:27:38:
+         db:03:41:3b:cc:73:0f:b1:89:80:26:35:03:e4:57:ca:f1:11:
+         0a:4c:2f:91:7a:33:4c:ac:35:fb:4a:83:00:c7:01:9e:3f:8e:
+         5f:5e:e5:d3:10:aa:04:42:9b:b6:f4:a7:a2:27:d7:c6:8e:8a:
+         ea:6c:bd:8a:10:35:e2:f1:44:bf:a6:83:c3:ed:bc:cf:40:47:
+         33:2d:e0:6b

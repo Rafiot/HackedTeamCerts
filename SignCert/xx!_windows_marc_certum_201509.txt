@@ -1,0 +1,81 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            12:d5:a4:b2:9f:e6:15:6d:41:95:fb:a5:5a:e0:d9:a9
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=PL, O=Unizeto Technologies S.A., OU=Certum Certification Authority, CN=Certum Level III CA
+        Validity
+            Not Before: Sep  3 06:30:01 2014 GMT
+            Not After : Sep  3 06:30:01 2015 GMT
+        Subject: C=FR, O=Marc Chapon, CN=Open Source Developer, Marc Chapon/emailAddress=marchaopn@gmail.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:a9:fc:12:c7:24:17:17:d3:e0:3d:9c:a1:f1:c0:
+                    6e:55:ca:fc:9b:d3:a9:6e:d3:89:36:5c:8e:d3:22:
+                    b0:6b:cc:b1:77:79:9c:a3:1d:8e:c7:e7:a9:12:23:
+                    68:91:10:36:3a:11:3c:b7:c7:53:f3:ad:40:a6:6f:
+                    07:18:cd:2a:f7:b6:2d:83:a9:a0:1b:00:d1:ba:32:
+                    92:37:c2:c0:11:96:91:42:31:8e:d5:41:c3:3f:3e:
+                    9c:2e:b0:64:b6:ac:6d:41:d8:91:99:5f:d7:61:c2:
+                    7d:57:74:ad:d5:d7:13:61:d2:10:fe:51:4f:76:0e:
+                    4b:24:4e:83:26:2c:d0:68:d3:d3:63:7e:0f:ba:65:
+                    dc:64:9d:cc:19:e9:65:e1:6d:e2:34:c4:89:d0:8f:
+                    5a:18:a4:82:c3:ac:86:e3:f0:69:16:1e:05:7c:e3:
+                    9a:02:0a:93:96:96:50:3b:c2:24:f6:21:8f:bd:ec:
+                    02:d1:a7:f3:71:30:0c:ed:d4:4a:ab:b6:5c:2a:73:
+                    c3:f5:2f:d3:c1:19:07:92:04:64:52:23:16:bf:b8:
+                    ea:0c:b1:c0:53:9b:90:6b:33:1d:7f:df:8d:93:71:
+                    e5:17:c6:43:51:35:6b:cb:1b:5e:c4:cf:0e:b9:e3:
+                    2c:ba:9c:21:7c:52:a1:5b:e5:6f:d0:93:6d:80:f1:
+                    32:53
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.certum.pl/l3.crl
+
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.certum.pl
+                CA Issuers - URI:http://repository.certum.pl/l3.cer
+
+            X509v3 Authority Key Identifier: 
+                keyid:04:C9:DA:9A:DC:4A:49:77:AF:30:03:04:66:2E:C7:CE:F2:F8:17:7D
+
+            X509v3 Subject Key Identifier: 
+                8B:5B:2F:3D:B6:9E:CA:5B:B2:09:74:38:08:51:BA:51:67:78:CA:39
+            X509v3 Key Usage: critical
+                Digital Signature
+            X509v3 Certificate Policies: 
+                Policy: 1.2.616.1.113527.2.2.3
+                  CPS: https://www.certum.pl/CPS
+                  User Notice:
+                    Organization: Unizeto Technologies S.A.
+                    Number: 7
+                    Explicit Text: Usage of this certificate is strictly subjected to the CERTUM Certification Practice Statement (CPS) incorporated by reference herein and in the repository at https://www.certum.pl/repository.
+
+            X509v3 Extended Key Usage: 
+                Code Signing
+            Netscape Cert Type: 
+                Object Signing
+    Signature Algorithm: sha1WithRSAEncryption
+         60:ff:f2:9f:20:78:24:ec:ec:24:9b:57:2d:d1:b1:ea:94:02:
+         db:ae:f8:76:aa:53:e2:84:ff:68:21:1f:e5:04:dd:f1:fc:55:
+         ed:a3:c3:e1:5a:35:cb:0f:5d:3a:02:c2:8b:d1:ec:31:9e:8c:
+         48:96:76:80:12:7e:5c:38:90:0e:49:80:f3:90:db:a5:28:80:
+         c7:1f:02:96:5f:32:ff:e3:11:08:ad:e7:e7:56:3b:f8:af:29:
+         93:a0:c2:f2:21:ae:b9:a3:0f:d6:56:70:1a:0a:31:b9:97:76:
+         0c:78:8f:cd:0f:33:a3:fd:8e:ac:09:5e:80:1e:3e:1a:1d:8e:
+         0b:2b:56:87:16:4d:39:f6:88:43:1c:e7:dd:69:ee:40:83:4e:
+         c6:a2:cf:8a:00:78:08:05:a9:53:63:b4:2b:aa:d4:4c:48:05:
+         97:d7:44:28:0e:f4:d4:f1:3a:f9:34:f3:97:97:b9:33:ca:fd:
+         9e:03:22:f0:46:a1:8b:a0:b7:8d:21:61:0d:2c:37:86:97:4b:
+         a0:1f:8e:2d:63:09:39:c1:ec:65:f7:8e:01:6b:b3:7c:2d:dd:
+         8e:57:d9:16:bb:ca:93:5c:e0:cd:56:cd:ea:6e:65:02:38:69:
+         4e:e9:26:38:1e:cd:b2:db:46:e8:ae:e0:5b:a1:0a:5e:1c:92:
+         0a:b2:46:94

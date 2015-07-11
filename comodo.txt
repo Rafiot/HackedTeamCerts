@@ -1,0 +1,74 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            10:70:9d:4f:f5:54:08:d7:30:60:01:d8:ea:91:75:bb
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, ST=UT, L=Salt Lake City, O=The USERTRUST Network, OU=http://www.usertrust.com, CN=UTN-USERFirst-Object
+        Validity
+            Not Before: Aug 24 00:00:00 2011 GMT
+            Not After : May 30 10:48:38 2020 GMT
+        Subject: C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO Code Signing CA 2
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:cb:f8:e7:a7:e8:f1:97:28:40:68:80:37:d2:c8:
+                    3f:8e:92:8a:92:37:87:47:80:ea:4c:99:cf:6e:f9:
+                    15:47:bd:ee:75:f4:44:ac:d0:c3:d4:4d:f7:19:c0:
+                    d3:3c:4d:c1:47:b9:59:65:16:93:8c:d9:0a:84:9b:
+                    9f:e8:f6:6a:63:58:fe:5f:dc:d1:7f:4b:51:9f:00:
+                    1c:00:87:54:20:07:57:a0:82:c9:2f:98:af:33:8a:
+                    bb:7b:80:22:25:6a:6c:af:c2:2c:6c:79:13:bd:a3:
+                    2a:48:d6:b5:8e:61:55:e9:6b:e8:3d:80:bf:14:03:
+                    85:18:8e:7e:4c:e9:c2:19:88:73:92:72:cd:fa:ff:
+                    50:4d:cb:2c:a6:7b:1a:73:b1:00:90:2c:d9:32:e2:
+                    fb:fd:ac:95:42:36:ec:34:c5:13:53:68:b2:c1:9f:
+                    40:9f:da:7b:c8:9d:62:6c:93:a2:42:d7:79:9f:97:
+                    4f:31:5b:50:21:a1:ab:af:d9:1c:b2:ce:75:be:5b:
+                    2c:56:00:24:8d:11:c1:75:1f:f0:fe:d2:95:fe:f0:
+                    e1:31:23:18:67:c0:5b:13:fd:5a:98:94:94:ff:ff:
+                    59:02:1f:00:ac:e6:f1:f2:fa:3a:73:b3:1d:42:fc:
+                    54:75:cf:51:31:2f:e3:db:81:d9:77:23:2a:4f:59:
+                    ce:23
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:DA:ED:64:74:14:9C:14:3C:AB:DD:99:A9:BD:5B:28:4D:8B:3C:C9:D8
+
+            X509v3 Subject Key Identifier: 
+                1E:C5:B1:2C:7D:87:DA:02:68:7C:25:BC:0C:07:84:3F:B6:CF:DE:F1
+            X509v3 Key Usage: critical
+                Certificate Sign, CRL Sign
+            X509v3 Basic Constraints: critical
+                CA:TRUE, pathlen:0
+            X509v3 Extended Key Usage: 
+                Code Signing
+            X509v3 Certificate Policies: 
+                Policy: X509v3 Any Policy
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.usertrust.com/UTN-USERFirst-Object.crl
+
+            Authority Information Access: 
+                CA Issuers - URI:http://crt.usertrust.com/UTNAddTrustObject_CA.crt
+                OCSP - URI:http://ocsp.usertrust.com
+
+    Signature Algorithm: sha1WithRSAEncryption
+         95:89:77:93:68:01:5e:7c:d9:2d:37:07:90:5d:5a:42:5e:0c:
+         64:b4:36:b5:0f:f6:ab:d5:39:27:de:22:46:a4:49:1c:66:4b:
+         46:19:59:2e:79:49:03:f6:9c:92:df:6d:50:35:5c:0c:91:2e:
+         60:03:59:d0:f1:64:f7:69:09:f6:7e:fe:eb:34:b3:6d:b1:bf:
+         66:9c:a3:ba:31:78:b9:87:35:61:3d:92:31:1b:ef:f4:e8:9e:
+         d6:ac:45:fa:0c:36:3c:80:67:bb:bd:ef:2e:c2:90:e1:3d:71:
+         2f:3b:c1:b0:58:7e:45:c3:52:71:03:07:f6:f3:39:4d:8b:36:
+         21:1b:01:df:d9:da:5e:2b:eb:0e:97:80:1e:44:1c:50:88:f5:
+         c6:12:33:4a:a8:4d:a5:8d:2f:94:0c:7b:c6:bf:9a:2c:c3:32:
+         cd:bd:8c:27:26:f0:e1:30:03:50:06:82:bc:f4:3b:b3:83:75:
+         06:c6:ef:ba:ee:d3:80:f8:52:c6:ac:cb:79:f2:38:9e:7b:b0:
+         92:58:42:91:05:c8:96:21:ad:b9:4b:16:81:14:69:f1:37:b0:
+         fe:34:f7:dc:b0:df:97:f5:43:10:9b:76:8f:b4:65:f5:e8:9f:
+         13:b7:1e:ac:6f:c4:69:8a:5f:ba:3c:61:7e:5e:49:86:23:13:
+         2e:af:15:48

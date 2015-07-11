@@ -1,0 +1,80 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            0f:a8:49:06:15:d7:00:a0:be:21:76:fd:c5:ec:6d:bd
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Assured ID Root CA
+        Validity
+            Not Before: Feb 11 12:00:00 2011 GMT
+            Not After : Feb 10 12:00:00 2026 GMT
+        Subject: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Assured ID Code Signing CA-1
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:9c:7c:f9:a0:8f:0a:ca:89:4b:53:9a:3c:ec:19:
+                    22:7f:0c:cb:f7:48:44:d0:3f:22:6e:9a:4f:fa:ce:
+                    df:c6:d3:24:91:ff:a8:52:93:e7:72:f8:f1:46:86:
+                    94:c5:ab:17:f4:78:7f:cb:7a:be:90:26:1c:7c:53:
+                    2f:e5:83:e7:bb:6a:05:28:cc:a0:17:11:4b:18:20:
+                    f3:b7:bd:f2:dc:cb:b8:86:40:45:1f:4f:f9:39:98:
+                    d3:3b:eb:6f:69:a4:5c:01:2e:b1:66:e9:a6:b8:dc:
+                    06:de:ae:8d:62:fe:44:27:82:a9:03:c3:fe:e6:26:
+                    0b:93:49:71:e5:38:6d:4e:fe:80:5c:67:77:b5:d5:
+                    6f:66:64:94:6b:bb:88:49:68:d8:d1:f4:7e:21:c1:
+                    e6:c5:1e:c9:e0:96:b8:09:95:f9:4b:9e:ae:cc:31:
+                    bd:6a:5a:42:a7:c4:05:47:7d:60:2b:d9:a1:5d:bd:
+                    fb:56:93:ef:1b:fc:72:f9:df:3e:32:fd:dd:2a:2c:
+                    32:46:da:5e:63:bc:d0:b8:cb:4c:10:35:fc:50:5f:
+                    ac:43:44:7c:fe:84:44:50:b4:8c:2a:3d:74:0c:f4:
+                    7a:8b:72:4b:e0:56:b5:13:b6:63:e9:3f:4e:49:23:
+                    e7:06:16:f0:25:ab:01:f8:28:41:e6:c7:d4:64:3b:
+                    5d:ab
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature, Certificate Sign, CRL Sign
+            X509v3 Extended Key Usage: 
+                Code Signing
+            X509v3 Certificate Policies: 
+                Policy: 2.16.840.1.114412.3
+                  CPS: http://www.digicert.com/ssl-cps-repository.htm
+                  User Notice:
+                    Explicit Text: 
+
+            X509v3 Basic Constraints: critical
+                CA:TRUE, pathlen:0
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.digicert.com
+                CA Issuers - URI:http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl
+
+                Full Name:
+                  URI:http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl
+
+            X509v3 Subject Key Identifier: 
+                7B:68:CE:29:AA:C0:17:BE:49:7A:E1:E5:3F:D6:A7:F7:45:8F:35:32
+            X509v3 Authority Key Identifier: 
+                keyid:45:EB:A2:AF:F4:92:CB:82:31:2D:51:8B:A7:A7:21:9D:F3:6D:C8:0F
+
+    Signature Algorithm: sha1WithRSAEncryption
+         7b:72:1d:64:ff:88:c8:3a:c1:b7:e9:e7:a9:c4:87:bb:db:94:
+         92:d7:90:59:33:fa:2b:87:de:a8:5b:80:25:3f:13:8f:9b:83:
+         1b:7c:43:c4:e6:8c:df:39:3e:c3:15:ec:b0:da:3b:21:25:7b:
+         24:c1:72:5d:b8:47:91:81:13:46:fa:9c:3f:6a:51:38:de:b4:
+         25:cb:f0:ab:df:c5:28:01:54:79:10:46:24:d1:38:0f:26:a1:
+         61:90:4d:ba:bd:28:e6:3f:f1:c4:aa:9b:f6:da:35:53:4f:c9:
+         f2:3d:d3:6c:dc:23:ed:aa:a0:4d:67:09:f3:3a:80:3d:3c:fb:
+         36:4c:90:e7:76:a4:dd:f2:3a:bf:56:35:2f:a2:4c:65:e8:e0:
+         d4:da:d1:c7:c8:91:6a:2d:23:4f:37:3b:19:94:18:d4:d5:9c:
+         10:3c:d5:b1:1c:19:ff:8f:c8:6b:9b:9e:f8:ae:9c:99:96:78:
+         d1:cd:9c:51:15:5b:42:26:72:5a:8d:0a:4a:23:92:40:e8:86:
+         de:22:c2:93:3a:d4:9b:68:a6:df:29:7f:06:b9:3c:0e:bd:9f:
+         c4:86:9c:82:47:42:71:32:86:09:99:72:09:79:4b:9d:71:69:
+         f5:41:ff:7f:39:77:64:f1:84:8d:be:8b:1e:b2:7d:68:a3:a5:
+         90:b1:0c:ff

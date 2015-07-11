@@ -1,0 +1,80 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            05:d7:8e:ca:a3:73:8a:08:70:43:d6:d6:f0:19:a3:d9
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Assured ID Code Signing CA-1
+        Validity
+            Not Before: Mar 20 00:00:00 2013 GMT
+            Not After : Mar 24 12:00:00 2014 GMT
+        Subject: C=IT, L=SEVESO, O=Andrea Renzo Torello Viera, CN=Andrea Renzo Torello Viera
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:c5:90:90:4e:7c:ee:e7:10:00:24:70:20:15:d7:
+                    c7:12:d4:23:38:f4:19:00:91:74:93:e1:2c:70:53:
+                    9f:71:14:75:24:5e:6f:59:c4:9d:88:23:65:16:2d:
+                    d5:88:4b:54:fb:76:c7:d5:ca:dc:c1:19:74:7c:ee:
+                    82:d4:4e:d1:60:03:5e:22:05:37:74:9a:47:50:84:
+                    cf:f6:9c:80:4c:1d:34:a4:52:27:13:df:08:42:80:
+                    a9:84:c4:01:fc:0f:f1:d0:91:46:4c:79:03:39:e3:
+                    04:c9:6a:52:35:b8:62:12:46:75:27:6d:a5:85:b2:
+                    3f:15:f0:88:99:97:05:81:c0:3b:ad:bf:50:6b:91:
+                    90:22:14:e0:7e:ec:33:e1:55:e7:d9:74:87:06:ff:
+                    91:46:57:04:69:e3:7d:0b:7b:11:32:4b:d4:cc:04:
+                    45:75:ac:f0:6e:44:cc:84:34:35:55:f8:67:c7:48:
+                    87:89:85:f9:7d:88:e7:7f:1b:2c:33:73:27:32:74:
+                    1e:31:fe:84:61:ca:35:09:f4:31:68:aa:a3:7d:d7:
+                    10:2e:a5:21:8b:f5:10:25:3b:31:35:32:50:31:1b:
+                    41:9e:b9:9a:5b:a8:f9:b5:bf:50:07:9f:d1:9e:4d:
+                    df:58:22:a5:dd:61:29:99:f1:0f:0c:c0:45:0b:2a:
+                    1b:dd
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:7B:68:CE:29:AA:C0:17:BE:49:7A:E1:E5:3F:D6:A7:F7:45:8F:35:32
+
+            X509v3 Subject Key Identifier: 
+                0F:E2:C2:F5:C2:B2:ED:BD:F4:A5:58:17:AD:D6:27:56:D7:33:93:30
+            X509v3 Key Usage: critical
+                Digital Signature
+            X509v3 Extended Key Usage: 
+                Code Signing
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl3.digicert.com/assured-cs-2011a.crl
+
+                Full Name:
+                  URI:http://crl4.digicert.com/assured-cs-2011a.crl
+
+            X509v3 Certificate Policies: 
+                Policy: 2.16.840.1.114412.3.1
+                  CPS: http://www.digicert.com/ssl-cps-repository.htm
+                  User Notice:
+                    Explicit Text: 
+
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.digicert.com
+                CA Issuers - URI:http://cacerts.digicert.com/DigiCertAssuredIDCodeSigningCA-1.crt
+
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+    Signature Algorithm: sha1WithRSAEncryption
+         57:62:f0:8c:dc:07:2d:e6:aa:af:bb:58:ff:90:46:c0:1c:32:
+         80:b3:8a:38:e0:59:b2:37:b0:2a:c5:9d:ca:18:f8:e2:71:8b:
+         68:d2:e3:46:10:79:b5:fd:89:6e:24:08:7b:06:56:4b:df:dc:
+         81:74:1a:f9:9b:14:63:1a:ce:5c:86:8a:8e:6e:48:56:41:53:
+         0f:8c:21:7d:e3:28:62:30:8f:0a:8d:1f:07:1c:3a:e0:c5:50:
+         58:b7:91:07:87:2a:1c:3e:7d:27:65:99:da:80:6b:0e:e1:f8:
+         c1:67:ff:49:c8:16:35:43:77:5d:bd:ac:8e:56:9b:1a:29:4d:
+         f2:ab:a2:b2:f0:25:4f:44:38:d9:25:a6:52:71:c6:23:ed:ba:
+         12:b3:30:55:5c:db:2a:c2:41:bc:3b:37:5f:03:3b:53:1e:bd:
+         19:f7:69:52:78:44:38:0c:06:c5:3a:5d:c3:81:2a:c0:dd:d2:
+         93:ae:09:ff:82:a0:e9:76:ec:de:da:92:08:c0:cb:66:c5:fa:
+         d3:bb:bd:f9:c0:eb:b2:b8:41:51:8a:4c:90:90:63:48:43:6a:
+         db:da:eb:63:c9:4d:61:c8:c9:54:6e:3d:d6:13:09:5f:8f:e8:
+         21:b8:f6:3a:9c:15:51:0f:22:34:61:17:91:be:59:a3:0e:18:
+         32:c3:a7:b7

@@ -1,0 +1,79 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            a1:c9:d6:6e:19:96:84:b7:5b:60:d9:34:d3:de:26:6a
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO Code Signing CA 2
+        Validity
+            Not Before: Oct  9 00:00:00 2013 GMT
+            Not After : Oct  9 23:59:59 2014 GMT
+        Subject: C=IN/postalCode=122002, ST=haryana, L=gurgaon/street=DLF gurgaon/street=s block 50/36 phase-III, O=Sanjeev Kumar Deswal, OU=billing, CN=Sanjeev Kumar Deswal
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:c9:2e:e4:c7:bb:1f:32:58:9e:4d:c3:d1:48:7a:
+                    cd:ea:44:e4:2f:a7:d3:4e:b5:56:1e:42:34:8c:f6:
+                    dd:26:63:96:7c:82:1e:69:f6:2f:fa:6c:31:51:ec:
+                    91:2d:dd:5f:e1:d0:a0:7f:31:14:b9:d9:f6:a7:22:
+                    e9:0b:f4:f4:40:a5:2f:24:f5:0b:91:2d:d6:09:08:
+                    1e:7d:a8:c4:34:e2:5e:95:56:b5:b1:b0:3c:a2:4f:
+                    93:e7:78:73:75:86:8f:67:e2:47:05:c5:fa:84:9a:
+                    3e:61:0d:f5:c2:e8:eb:3f:89:10:fe:16:98:02:8f:
+                    65:e2:aa:82:12:e3:93:b2:2a:aa:50:f3:a2:d6:6d:
+                    d6:2f:be:5b:76:8f:0b:19:a5:6f:01:8d:e1:47:89:
+                    2c:ef:be:c2:38:18:5b:1a:de:65:44:51:1c:4f:ed:
+                    72:23:39:60:a3:5a:6c:51:0b:1c:2b:9f:4c:f3:6c:
+                    c7:4d:ec:8f:17:98:92:a1:c6:07:d1:9c:8d:09:39:
+                    0d:86:09:a6:a9:52:33:63:f7:2b:fb:9e:06:7f:3a:
+                    64:3a:55:e0:cf:9b:e0:72:38:16:b0:bb:58:7f:ea:
+                    28:66:b4:eb:fa:af:47:3b:55:8e:6a:9d:61:b7:40:
+                    4b:c4:1b:3b:a2:5f:35:dc:ed:a7:8a:e4:59:32:24:
+                    7e:f3
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:1E:C5:B1:2C:7D:87:DA:02:68:7C:25:BC:0C:07:84:3F:B6:CF:DE:F1
+
+            X509v3 Subject Key Identifier: 
+                BE:A4:15:6D:17:38:20:0F:B3:25:6C:89:31:7E:E9:46:45:01:34:A0
+            X509v3 Key Usage: critical
+                Digital Signature
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Extended Key Usage: 
+                Code Signing
+            Netscape Cert Type: 
+                Object Signing
+            X509v3 Certificate Policies: 
+                Policy: 1.3.6.1.4.1.6449.1.2.1.3.2
+                  CPS: https://secure.comodo.net/CPS
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.comodoca.com/COMODOCodeSigningCA2.crl
+
+            Authority Information Access: 
+                CA Issuers - URI:http://crt.comodoca.com/COMODOCodeSigningCA2.crt
+                OCSP - URI:http://ocsp.comodoca.com
+
+            X509v3 Subject Alternative Name: 
+                email:admin@thesecretofmac.com
+    Signature Algorithm: sha1WithRSAEncryption
+         53:c4:e6:66:14:18:fb:57:03:25:a0:6a:80:f6:d1:e1:c1:7c:
+         00:cf:4e:b8:4e:5b:f2:06:16:72:86:48:2c:2a:7b:af:36:2c:
+         d9:9a:81:e7:0f:f0:18:19:00:f7:a7:2d:b5:52:c7:ef:8a:84:
+         2a:d2:b2:f6:21:37:b4:91:04:97:fb:42:d5:f9:43:d6:cf:30:
+         20:aa:8b:ae:8b:5e:ca:1a:4a:54:97:8d:e7:b5:77:30:93:de:
+         78:cc:77:22:0a:bb:cb:67:aa:25:60:a2:ca:40:dc:6a:68:80:
+         9a:16:f0:34:27:30:4f:7e:d6:c6:e2:64:a5:38:12:e9:84:c4:
+         97:7c:20:7b:a2:20:cc:73:9f:19:18:ef:b1:64:01:6a:2d:bf:
+         a1:87:01:89:08:e1:f4:05:ae:db:f0:b8:58:5c:ed:84:10:64:
+         69:f4:e6:13:7b:4a:b6:75:32:ba:10:f7:c2:41:30:35:25:5f:
+         52:07:b8:3f:41:b5:2d:43:a0:d4:5f:21:18:c6:56:7f:4c:06:
+         69:79:7b:9e:53:a8:c4:47:eb:94:70:47:d7:c9:70:b2:0e:7d:
+         d1:a4:6c:0d:a0:db:04:a1:e9:5b:23:01:ae:1f:9b:6d:a3:77:
+         d2:6c:19:58:13:a6:a0:45:2f:2e:76:ba:e1:e2:81:78:66:18:
+         a3:b4:99:92

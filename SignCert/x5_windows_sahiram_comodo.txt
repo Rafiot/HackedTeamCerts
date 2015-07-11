@@ -1,0 +1,79 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            da:05:0b:7d:84:6e:75:57:ab:26:3a:ea:a9:94:9f:10
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO Code Signing CA 2
+        Validity
+            Not Before: Apr  2 00:00:00 2013 GMT
+            Not After : Apr  2 23:59:59 2015 GMT
+        Subject: C=IN/postalCode=333031, ST=rajasthan, L=pilani/street=kulhariyo ka bas, teh chirwa, O=sahiram, OU=tech, CN=sahiram
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:cc:ac:33:c2:78:94:a2:fa:b0:4e:0d:f4:1d:52:
+                    21:c6:00:ac:ad:47:49:14:be:1e:75:79:61:1d:f2:
+                    3f:15:6b:25:db:9b:f9:11:54:0e:de:43:32:db:13:
+                    cb:99:c7:7e:e5:d6:6d:f8:22:2b:6d:dc:b1:20:18:
+                    72:c8:f9:12:90:05:b5:4c:eb:52:ce:f3:af:ad:86:
+                    1e:9a:75:ae:dd:ef:c8:2f:fd:74:1b:bc:8d:6b:34:
+                    51:04:f7:1a:b8:b2:86:54:29:33:99:04:44:f7:da:
+                    6e:77:b6:d8:81:f3:72:ec:86:2e:f0:bd:e0:f8:96:
+                    50:81:d8:7e:2f:ba:45:06:7a:15:43:b7:a5:16:91:
+                    a2:78:8e:21:89:15:4c:da:57:64:48:ec:e0:4b:80:
+                    67:b8:f3:1e:84:b1:9a:7c:03:91:5c:9e:8e:66:a7:
+                    24:01:d9:2d:c4:b3:7b:48:4e:47:0f:9e:e4:c5:2f:
+                    36:df:3a:fb:22:c8:65:48:9e:83:4b:b8:0b:f4:3f:
+                    36:4b:f9:25:69:ae:9d:9e:e2:a8:0e:5f:01:36:15:
+                    64:b5:8b:1f:12:b4:7c:99:fa:00:61:32:e3:d6:b7:
+                    ee:f4:b1:e8:02:9d:3b:2e:9b:67:9c:fb:6b:58:4a:
+                    49:a7:fb:91:87:8d:be:be:55:bc:69:0f:26:0f:3e:
+                    2a:3d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:1E:C5:B1:2C:7D:87:DA:02:68:7C:25:BC:0C:07:84:3F:B6:CF:DE:F1
+
+            X509v3 Subject Key Identifier: 
+                4E:6F:DF:95:C0:04:0D:8E:EB:FE:55:82:82:54:4B:79:79:4A:57:83
+            X509v3 Key Usage: critical
+                Digital Signature
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Extended Key Usage: 
+                Code Signing
+            Netscape Cert Type: 
+                Object Signing
+            X509v3 Certificate Policies: 
+                Policy: 1.3.6.1.4.1.6449.1.2.1.3.2
+                  CPS: https://secure.comodo.net/CPS
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.comodoca.com/COMODOCodeSigningCA2.crl
+
+            Authority Information Access: 
+                CA Issuers - URI:http://crt.comodoca.com/COMODOCodeSigningCA2.crt
+                OCSP - URI:http://ocsp.comodoca.com
+
+            X509v3 Subject Alternative Name: 
+                email:sahiram@cryptvoice.com
+    Signature Algorithm: sha1WithRSAEncryption
+         62:75:ef:99:a6:ba:4d:53:d6:eb:78:38:4a:a5:10:c3:8a:bc:
+         19:ae:29:1f:f9:72:27:8a:87:d3:15:0a:06:1a:64:f0:6b:bc:
+         bd:e2:a5:90:4d:14:0d:46:18:f3:de:8c:fc:53:06:d3:e1:f1:
+         b9:f4:4b:c5:ac:6d:f7:e1:02:2b:50:f7:c5:f8:90:24:b2:59:
+         c6:40:be:25:35:cf:f6:0b:68:2f:8d:f1:2b:b4:bb:04:6c:9a:
+         ab:d2:f3:0b:f9:09:32:61:a3:2e:c9:19:bf:c7:94:b7:19:69:
+         2a:88:c4:46:48:71:35:da:6c:62:72:46:1c:11:c5:d3:64:1a:
+         44:91:a0:57:f6:43:66:83:07:2e:3f:c5:bc:63:61:2e:e6:bf:
+         8c:9c:0a:9a:cc:b7:20:b2:89:39:46:28:08:86:7b:ef:6b:03:
+         ec:37:72:f9:23:e1:1a:fa:8c:e4:d4:c0:73:5f:e1:d5:44:df:
+         dd:bd:30:e6:18:3d:39:77:16:e4:29:f9:49:9c:55:98:84:83:
+         6c:38:b7:03:3f:34:b8:1c:c3:d2:12:10:85:11:80:78:4e:81:
+         61:dd:1f:90:60:be:c2:0a:9d:b7:a1:2a:62:80:30:1f:27:51:
+         8d:49:67:44:7a:35:f9:5e:9b:fa:ac:44:78:32:c4:7d:c7:8d:
+         5a:bb:d1:c1
