@@ -18,5 +18,5 @@ x4_windows_andrea_digicert.txt         05:d7:8e:ca:a3:73:8a:08:70:43:d6:d6:f0:19
 x8!_windows_bharath_certum.txt         65:ea:e6:c9:81:11:dc:40:bf:4f:96:2b:f2:72:27:f2
 x9_windows_muhammad_certum_201507.txt  04:42:2f:12:03:7b:c2:03:25:21:db:b6:ae:02:ea:0e
 xx!_windows_marc_certum_201509.txt     12:d5:a4:b2:9f:e6:15:6d:41:95:fb:a5:5a:e0:d9:a9
-xx_windows_meicun_certum_201509.txt    4f:c1:3d:62:20:c6:29:04:3a:26:f8:1b:1c:ad:72:d8
+xx_windows_meicun_certum_201509.txt    4f:c1:3d:62:20:c6:29:04:3a:26:f8:1b:1c:ad:72:d8 <= already revoked
 ```
