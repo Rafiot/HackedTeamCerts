@@ -5,7 +5,7 @@ Signing certificates
 --------------------
 
 ```
-x1_windows_kamel_comodo.txt            1a:a4:4c:dc:42:de:5f:a8:a6:ac:32:81:34:0c:4c:ee
+x1_windows_kamel_comodo.txt            1a:a4:4c:dc:42:de:5f:a8:a6:ac:32:81:34:0c:4c:ee <= already revoked
 x3_windows_amit_comodo.txt             13:df:c9:13:2a:a0:e9:ba:3b:05:dd:ec:b5:f6:50:e6
 x5_windows_sahiram_comodo.txt          da:05:0b:7d:84:6e:75:57:ab:26:3a:ea:a9:94:9f:10 <= already revoked
 x6_windows_sanjeev_comodo.txt          a1:c9:d6:6e:19:96:84:b7:5b:60:d9:34:d3:de:26:6a <= already revoked
